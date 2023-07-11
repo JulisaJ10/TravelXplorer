@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+
+}
+
+header{
+    background-color: gray;
+}
+
+navbar{
+    list-style: none;
+    display: inline-block;
+    padding:18px;
+
+}
+menu{
+    background-position: center;
+    background-size: center;
+}
+body{
+    background-color: bisque;
+}
+
+img{
+    position: center;
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+}
+footer{
+    background-color: gray;
+    text-align: center;
+}
